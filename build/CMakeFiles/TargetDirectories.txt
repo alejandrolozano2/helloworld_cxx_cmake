@@ -1,0 +1,3 @@
+/home/tristan/Documents/helloWorld_example/build/CMakeFiles/rebuild_cache.dir
+/home/tristan/Documents/helloWorld_example/build/CMakeFiles/HelloWorld_Example.dir
+/home/tristan/Documents/helloWorld_example/build/CMakeFiles/edit_cache.dir
